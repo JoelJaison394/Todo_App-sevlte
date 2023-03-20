@@ -1,0 +1,27 @@
+
+
+body {
+	margin: 0;
+	padding:0;
+	background: url(../lib/images/pexels-andrew-neel-2312369.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: center;
+	min-height: 100vh;
+}
+
+*{
+	margin: 0;
+	padding:0;
+	box-sizing: border-box;
+}
+
+.app{
+	background: rgba(21, 21, 21, 0.47);
+	z-index: 999;
+	min-height: 100vh;
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	justify-content: center;
+}
