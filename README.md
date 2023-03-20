@@ -4,29 +4,29 @@ This is a simple todo app built with Svelte, Tailwind CSS, and Firebase. It allo
 
 ## Getting Started
 
-###Prerequisites
+### Prerequisites
 To run this project, you will need to have the following installed:
 - Node.js
 - npm
 
-###Installing
+### Installing
 
 1. Clone the repository:
 `git clone https://github.com/your-username/todo-app.git`
 2. Install the dependencies:
 `npm install`
 
-###Usage
+### Usage
 1. Start the development server:
 `npm run dev`
 2.Open http://localhost:5000 in your web browser to view the app.
 
-###Deployment
+### Deployment
 
 1. Build the app for production:
 `npm run build`
 2. Deploy the app to Firebase:
 `firebase deploy`
 
-##Contributing
+## Contributing
 Contributions are welcome! If you would like to contribute to this project, please create a pull request with your proposed changes.
